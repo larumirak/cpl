@@ -19,7 +19,7 @@
   ],
   
   "url": "https://github.com/larumirak/cpl",
-	"manifest": "https://raw.githubusercontent.com/larumirak/cpl/main/module.json",
+	"manifest": "https://github.com/larumirak/cpl/blob/main/module.json",
 	"download": "https://github.com/larumirak/cpl/blob/main/cozy-player.zip"
 }
 
